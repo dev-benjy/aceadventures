@@ -1,0 +1,1696 @@
+fileFormatVersion: 2
+guid: 8004df56b952aca45bbfcfb2eee14a75
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leaf golem bullets_0
+    21300002: leaf golem bullets_1
+    21300004: leaf golem bullets_2
+    21300006: leaf golem bullets_3
+    21300008: leaf golem bullets_4
+    21300010: leaf golem bullets_5
+    21300012: leaf golem bullets_6
+    21300014: leaf golem bullets_7
+    21300016: leaf golem bullets_8
+    21300018: leaf golem bullets_9
+    21300020: leaf golem bullets_10
+    21300022: leaf golem bullets_11
+    21300024: leaf golem bullets_12
+    21300026: leaf golem bullets_13
+    21300028: leaf golem bullets_14
+    21300030: leaf golem bullets_15
+    21300032: leaf golem bullets_16
+    21300034: leaf golem bullets_17
+    21300036: leaf golem bullets_18
+    21300038: leaf golem bullets_19
+    21300040: leaf golem bullets_20
+    21300042: leaf golem bullets_21
+    21300044: leaf golem bullets_22
+    21300046: leaf golem bullets_23
+    21300048: leaf golem bullets_24
+    21300050: leaf golem bullets_25
+    21300052: leaf golem bullets_26
+    21300054: leaf golem bullets_27
+    21300056: leaf golem bullets_28
+    21300058: leaf golem bullets_29
+    21300060: leaf golem bullets_30
+    21300062: leaf golem bullets_31
+    21300064: leaf golem bullets_32
+    21300066: leaf golem bullets_33
+    21300068: leaf golem bullets_34
+    21300070: leaf golem bullets_35
+    21300072: leaf golem bullets_36
+    21300074: leaf golem bullets_37
+    21300076: leaf golem bullets_38
+    21300078: leaf golem bullets_39
+    21300080: leaf golem bullets_40
+    21300082: leaf golem bullets_41
+    21300084: leaf golem bullets_42
+    21300086: leaf golem bullets_43
+    21300088: leaf golem bullets_44
+    21300090: leaf golem bullets_45
+    21300092: leaf golem bullets_46
+    21300094: leaf golem bullets_47
+    21300096: leaf golem bullets_48
+    21300098: leaf golem bullets_49
+    21300100: leaf golem bullets_50
+    21300102: leaf golem bullets_51
+    21300104: leaf golem bullets_52
+    21300106: leaf golem bullets_53
+    21300108: leaf golem bullets_54
+    21300110: leaf golem bullets_55
+    21300112: leaf golem bullets_56
+    21300114: leaf golem bullets_57
+    21300116: leaf golem bullets_58
+    21300118: leaf golem bullets_59
+    21300120: leaf golem bullets_60
+    21300122: leaf golem bullets_61
+    21300124: leaf golem bullets_62
+    21300126: leaf golem bullets_63
+    21300128: leaf golem bullets_64
+    21300130: leaf golem bullets_65
+    21300132: leaf golem bullets_66
+    21300134: leaf golem bullets_67
+    21300136: leaf golem bullets_68
+    21300138: leaf golem bullets_69
+    21300140: leaf golem bullets_70
+    21300142: leaf golem bullets_71
+    21300144: leaf golem bullets_72
+    21300146: leaf golem bullets_73
+    21300148: leaf golem bullets_74
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leaf golem bullets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 180
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a99d16e3c6b234e84b31a549e463d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 366
+        width: 181
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ec01f62a77ff94b832c9592c0954ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 366
+        width: 179
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c43a66b859b7bf4db1032f37c8c0993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 366
+        width: 180
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4a710e3c2d2534cb02f9d59946d3eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 366
+        width: 180
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829ebed6bc3f32948bb34de4685da4ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 366
+        width: 180
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87ed7807f3bdbf43945dea57c12267a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_6
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 366
+        width: 181
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecc6a7deecc570469f25dacab76f39e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_7
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 366
+        width: 180
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a671b247fb69f459cd82c37855ddbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_8
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 366
+        width: 179
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb3e98b458f0b4d91ec69184cad892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_9
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 366
+        width: 180
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84283b3f5238ae449830cd8eb41c2ecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 366
+        width: 180
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cbe1b9ea28e7f4aae40cf1a7fa00f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_11
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 366
+        width: 180
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18522523f3e93c941b6b0a3c67dd4b50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 180
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4929835, y: 0.4402639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a242ad04e22f449ace7d76406e231d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_13
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 279
+        width: 180
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273825019fd89cc4989ab7b98f948822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_14
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 279
+        width: 180
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ae53e811f881e42b821f9d55cda6e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_15
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 278
+        width: 181
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b653452023473b4c9773ec9ddc63da9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_16
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 279
+        width: 180
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10da1d46a3c0026429ca10cb4012487f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 180
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df12f4f461323a3489c470ea177a5e22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 185
+        width: 180
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c93a633caf2d0c458b85485d4ddd8b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 184
+        width: 180
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657cab94f76bfbc41852bda993214cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 182
+        width: 180
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e34eff79dc8dd47a5286f29fefed57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_21
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 180
+        width: 180
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa941585d191a645b66f38dcc4e467d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_22
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 179
+        width: 180
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ffa9ca6b25c0e4283f37414fbd1e21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_23
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 177
+        width: 181
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9d06dc05a38f24c9ad3c979ba33ac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_24
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 176
+        width: 180
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03b482962755fc4ebe3f06ce150b3c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_25
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 176
+        width: 181
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c68af29ceea3c43a2f4fc3665e050a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_26
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 176
+        width: 180
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbf75c67d0fbfc4aaedda48ebcdb729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_27
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 176
+        width: 181
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea5c3a7746cba9499c8f3baafef7174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_28
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 176
+        width: 180
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7ffb46079e1ba4c9c7722bcd9407bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_29
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 176
+        width: 181
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aa2663fe7d28546a3bac5ccb8ffdc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_30
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 176
+        width: 181
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceb89cd0dea98a46b1109e502b6c5b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_31
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 177
+        width: 181
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b990f2d7126144ac801066ebb9902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 180
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0286b0163c7ca049b56b72c0b9b2ceb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_33
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 93
+        width: 180
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e7f68ae8718dd42bb069ffe38fa98e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_34
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 94
+        width: 181
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eab37cbc6e84e45bc89703e3d8d91b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_35
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 97
+        width: 180
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55736bc98d157ae4aa1566294bfcfa04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_36
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 99
+        width: 181
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8612711b612c945a9ad1ff83855276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_37
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 102
+        width: 180
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907c9c7ad9834bc4e99512be6aaf2bee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_38
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 101
+        width: 182
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd06929a79c62d469795fe92b51cf3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 179
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc6f789991595c4abc56e2fd967b7d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_40
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 181
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9146df76235a7c4ca0fe02a110fee51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_41
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2
+        width: 180
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aabaea649b7ad43b45e713a2d0b0d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_42
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2
+        width: 181
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a0eb477871596409e7f40121c06918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_43
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2
+        width: 180
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310bd1c7afd9d0b44ba5b3db73bbfcd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_44
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2
+        width: 181
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3441ae680c34df45a943d670cbc0233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_45
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 3
+        width: 180
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026bcfae3e3363841b0cce848495d20c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_46
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 3
+        width: 182
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2f63381e1c98945bbb09dc3de753d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_47
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 5
+        width: 180
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a1f299a5ac36a4abd6360f79765aa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_48
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 6
+        width: 182
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f1367f33f207c40b4f94ce60b85948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_49
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 7
+        width: 181
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78316c5868885b448ca251d15782d98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_50
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 9
+        width: 181
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dcbb217a03d8546a483fd251b4e1c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_51
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 367
+        width: 180
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8648bdf8ee916fb4cafc16ab3146a9d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_52
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 368
+        width: 179
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3b6e8c99d34dc4daa0f5e35ce21b41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_53
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 368
+        width: 181
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3082c8b187dc7dd41905133fdd2d1ae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_54
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 278
+        width: 181
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70173d1b792b72d4d8890407536f792a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_55
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 278
+        width: 179
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef901e4ab99c02d4a80eb55ae9226bb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_56
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 278
+        width: 180
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf634ca2ce2d644a92b0e08372264f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_57
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 278
+        width: 181
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccb7ffd9673dce418636bc5236d0830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_58
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 278
+        width: 181
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e33917f12fc3ec4ea0a5997c544e9f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_59
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 278
+        width: 177
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05d4961b452ccb48b93bd24b25915e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_60
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 278
+        width: 182
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c8df4a697115744956974fd2ceafdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_61
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 278
+        width: 179
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7852e824e74c56948988dab0d4e46926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_62
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 278
+        width: 180
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d587406d9b1b484b8bfe241320f666d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_63
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 278
+        width: 180
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8943938e8346a9a458ffa02b0453ea91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_64
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 181
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e13db06ab24464aba5262edcb72363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 179
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a05656b02ca1aa4fbab9e43836cf731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_66
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 180
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c2a4d0b6d4c004199cb784588de0c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_67
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 101
+        width: 178
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d4b98870851e443ae850415922dcdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_68
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 101
+        width: 183
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf2abf817c18534aab13fa34529e2a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_69
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 101
+        width: 180
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c61e0c8b5bdacf4db7ccb389d52ee9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_70
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 102
+        width: 180
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c30e65d21586954fa037b752a54e5bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_71
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 102
+        width: 179
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561fe3387520ffb49a00da74cdc0eaba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_72
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 101
+        width: 179
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725cbea3f20ab1645b85851cd0ec68c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_73
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 100
+        width: 182
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db22c22c123906d498a0a46ae3396ec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf golem bullets_74
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 100
+        width: 178
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c93be607c4c394b9e11abca5af8120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8c1d0ce689cec114f822bfa7ae590086
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

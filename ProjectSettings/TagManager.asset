@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GM
+  - MovingPlatform
+  - MaxZoom
+  - MediumZoom
+  - MediumZoom2
+  - xtremeZoom
+  - MinZoom
+  - addlife
+  - enemyTier_1
+  - enemyTier_2
+  - enemyTier_3
+  - shock_attack
+  - dash_attack
+  - shield
+  - bossfight
+  - Healthbar
+  - enemybullets
+  - energybar
+  - addenergy
+  - addhealth
+  - defaultcam
+  - addstones
+  - enemyrocks
+  - friend
+  - spareshoes
+  - GMANAGE
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Backgrounds
+  - Enemies
+  - player_auxillaries
+  - collectables
+  - enemy_auxilaries
+  - checkpoints
+  - boss platforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 3376407917
+    locked: 0

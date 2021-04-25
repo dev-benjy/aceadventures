@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: e8f469861702a8d448a651ca1ea68619
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tile_jungle_tree_light_0
+    21300002: tile_jungle_tree_light_1
+    21300004: tile_jungle_tree_light_2
+    21300006: tile_jungle_tree_light_3
+    21300008: tile_jungle_tree_light_4
+    21300010: tile_jungle_tree_light_5
+    21300012: tile_jungle_tree_light_6
+    21300014: tile_jungle_tree_light_7
+    21300016: tile_jungle_tree_light_8
+    21300018: tile_jungle_tree_light_9
+    21300020: tile_jungle_tree_light_10
+    21300022: tile_jungle_tree_light_11
+    21300024: tile_jungle_tree_light_12
+    21300026: tile_jungle_tree_light_13
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab96dfb6a0baa04f87a6dac68c3219c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 263
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026d2ad97e665964989f8895139b5300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 288
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9005e53e7e5e10e469a58f4f1ec93ee1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 262
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a4ae43f2d56d44a8c8ffcff61bc1dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 217
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e61b7f8f1f25b45b7d9d99819f169f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 96
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f75a6442cea6c4980f9d786d43862c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 148
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e517834359569e428320037539872c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 18
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee9197cf8d35734386ae46167603d13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 185
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27387ffda80b96b458dfc058d8c9cbdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 256
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8817d1c2bf8472a438f7f9d89954594e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cc5ccd370eb0a46ac3f3c50af0a461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 260
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 69, z: 0, w: 0}
+      outline:
+      - - {x: -65.47093, y: -127.5}
+        - {x: -41.38389, y: -99.181076}
+        - {x: -35, y: -27.5}
+        - {x: -34, y: 35.5}
+        - {x: -47, y: 39.5}
+        - {x: -118, y: 51.5}
+        - {x: -130, y: 66.19794}
+        - {x: -46.03369, y: 73.93732}
+        - {x: -44.744865, y: 127.5}
+        - {x: 36.905823, y: 126.184296}
+        - {x: 35.253662, y: 71.92468}
+        - {x: 129.94507, y: 66.70604}
+        - {x: 40.832367, y: 31.899963}
+        - {x: 40.151245, y: -98.58534}
+        - {x: 57.701096, y: -127.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ded328a403e3e4896cff3f582ae1b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 257
+        height: 95
+      alignment: 9
+      pivot: {x: 0.46251145, y: 0.62248856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b49ea48ff7dec4d8257b6674cbad25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_light_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 174
+        height: 167
+      alignment: 9
+      pivot: {x: 0.46890768, y: 0.53840727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c016e76f71d5694b85b6566f9c41105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5de3f09d8aa0ee247b5915219e083952
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

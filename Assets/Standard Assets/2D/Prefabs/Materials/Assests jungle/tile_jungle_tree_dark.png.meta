@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: ed5d97666d9778d4ca566cbf3465bedc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tile_jungle_tree_dark_0
+    21300002: tile_jungle_tree_dark_1
+    21300004: tile_jungle_tree_dark_2
+    21300006: tile_jungle_tree_dark_3
+    21300008: tile_jungle_tree_dark_4
+    21300010: tile_jungle_tree_dark_5
+    21300012: tile_jungle_tree_dark_6
+    21300014: tile_jungle_tree_dark_7
+    21300016: tile_jungle_tree_dark_8
+    21300018: tile_jungle_tree_dark_9
+    21300020: tile_jungle_tree_dark_10
+    21300022: tile_jungle_tree_dark_11
+    21300024: tile_jungle_tree_dark_12
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile_jungle_tree_dark_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c2b937ac111fc4da7b4601a52f2778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_dark_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 263
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9661b0b334d6af1438b932062d3de89f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_dark_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7a597b6b3306d49afcf4f6735231dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_dark_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 263
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485f065327a9a874ab07077e434fffa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_dark_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: -127.5}
+        - {x: -103.5, y: -20.5}
+        - {x: -107.5, y: 21.5}
+        - {x: -107.5, y: 35.5}
+        - {x: -56.5, y: 40.5}
+        - {x: -119.5, y: 47.5}
+        - {x: -128.5, y: 63.5}
+        - {x: -101.5, y: 71.5}
+        - {x: -36.5, y: 73.5}
+        - {x: -56.5, y: 127.5}
+        - {x: 48.5, y: 126.5}
+        - {x: 39.5, y: 74.5}
+        - {x: 128.5, y: 65.5}
+        - {x: 111.5, y: 45.5}
+        - {x: 50.5, y: 42.5}
+        - {x: 41.5, y: 16.5}
+        - {x: 42.5, y: -7.5}
+        - {x: 42.5, y: -101.5}
+        - {x: 84.5, y: -127.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13c08640b59ad64f86158545c921965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_dark_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 189
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d858c2c64c0a88e4baf93c7a2f91fa84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_dark_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 68
+        height: 65
+      alignment: 9
+      pivot: {x: 0.4818849, y: 0.48104846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a4f2899fae23b42b93c7fa5e19fdf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_dark_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 96
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce346f5ce5278a4792098ffd0fe9074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_dark_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 183
+        width: 54
+        height: 38
+      alignment: 9
+      pivot: {x: 0.43961558, y: 0.58212304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e98e4354521a3419f449d3cc4da672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_dark_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 148
+        width: 46
+        height: 39
+      alignment: 9
+      pivot: {x: 0.47536346, y: 0.5315859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127d1222b41e08849b67f413873684fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_tree_dark_10
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 220
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b07b7a91738f148b74825959c2f651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 887fb224b3cab194990e15e4f5c588d5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

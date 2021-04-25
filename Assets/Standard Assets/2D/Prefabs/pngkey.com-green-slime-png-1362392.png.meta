@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: a873fa11b6881c3468d07715e0f17ab6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pngkey.com-green-slime-png-1362392_0
+    21300002: pngkey.com-green-slime-png-1362392_1
+    21300004: pngkey.com-green-slime-png-1362392_2
+    21300006: pngkey.com-green-slime-png-1362392_3
+    21300008: pngkey.com-green-slime-png-1362392_4
+    21300010: pngkey.com-green-slime-png-1362392_5
+    21300012: pngkey.com-green-slime-png-1362392_6
+    21300014: pngkey.com-green-slime-png-1362392_7
+    21300016: pngkey.com-green-slime-png-1362392_8
+    21300018: pngkey.com-green-slime-png-1362392_9
+    21300020: pngkey.com-green-slime-png-1362392_10
+    21300022: pngkey.com-green-slime-png-1362392_11
+    21300024: pngkey.com-green-slime-png-1362392_12
+    21300026: pngkey.com-green-slime-png-1362392_13
+    21300028: pngkey.com-green-slime-png-1362392_14
+    21300030: pngkey.com-green-slime-png-1362392_15
+    21300032: pngkey.com-green-slime-png-1362392_16
+    21300034: pngkey.com-green-slime-png-1362392_17
+    21300036: pngkey.com-green-slime-png-1362392_18
+    21300038: pngkey.com-green-slime-png-1362392_19
+    21300040: pngkey.com-green-slime-png-1362392_20
+    21300042: pngkey.com-green-slime-png-1362392_21
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkey.com-green-slime-png-1362392_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 139
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7a20ae60106d54fa24479ef63968fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-green-slime-png-1362392_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 282
+        width: 129
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a74cfc31172c64ba04526d98293feb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-green-slime-png-1362392_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 256
+        width: 109
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b263fd11bbf8784b95aec38f1642b0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-green-slime-png-1362392_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 257
+        width: 117
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f302f847c8b228442963486809ceca74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-green-slime-png-1362392_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 131
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82103a3ca84e1ca4982f89406a25bd0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-green-slime-png-1362392_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 129
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33878d46ef681d4eb7a9db53a30cd76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-green-slime-png-1362392_14
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 132
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde5ccfa5499b424982fe14ee65d1d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-green-slime-png-1362392_15
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 0
+        width: 131
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f7df0c7bc8a5d4ea28240df077823a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-green-slime-png-1362392_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d443d1867d2094a88bc0c17c5ea9a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-green-slime-png-1362392_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b742f841bfcba048b217f6ba2911ea6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 63f0797a6ea189443a5f64a7b421dd69
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 464164e6574fbf7498b2fb5c87607474
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tree_sprites_by_halt77-d3ax4jm (1)_0
+    21300002: tree_sprites_by_halt77-d3ax4jm (1)_1
+    21300004: tree_sprites_by_halt77-d3ax4jm (1)_2
+    21300006: tree_sprites_by_halt77-d3ax4jm (1)_3
+    21300008: tree_sprites_by_halt77-d3ax4jm (1)_4
+    21300010: tree_sprites_by_halt77-d3ax4jm (1)_5
+    21300012: tree_sprites_by_halt77-d3ax4jm (1)_6
+    21300014: tree_sprites_by_halt77-d3ax4jm (1)_7
+    21300016: tree_sprites_by_halt77-d3ax4jm (1)_8
+    21300018: tree_sprites_by_halt77-d3ax4jm (1)_9
+    21300020: tree_sprites_by_halt77-d3ax4jm (1)_10
+    21300022: tree_sprites_by_halt77-d3ax4jm (1)_11
+    21300024: tree_sprites_by_halt77-d3ax4jm (1)_12
+    21300026: tree_sprites_by_halt77-d3ax4jm (1)_13
+    21300028: tree_sprites_by_halt77-d3ax4jm (1)_14
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 422
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804315425a3962e429416157a94c4d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 422
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a00809eb70948408a5aaade81bd833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 388
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a779745da46801941af1c1dad97d51fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 388
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deefa268ccf61e14a91c7f65c793d496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 260
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9219037713b2743b195152b1e76a32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 260
+        width: 91
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6f5b720d878c54d893d1bb2fb628ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 260
+        width: 91
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a5e75530c64354388e3aca3375e744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 260
+        width: 91
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f977ed27552863f4fb3ded579bbf6139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 132
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f2e03795dd90941a46915f82acb090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 130
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6802ffec84d964399116ed5334b8c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 131
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed40609843b82584d960c7fbf9c18bb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 130
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b83d063db7982468689b63c8b0f4d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5
+        width: 75
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7431106081a3f46a111543855e5f18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34814723c71e30740b4080cb45a95924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_sprites_by_halt77-d3ax4jm (1)_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 121
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d18041da7257f45861ea85d5d00f40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 492d7972ff469694d9ece6537cce78f7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
